@@ -1,0 +1,4 @@
+# EX1  What temperature (in Fahrenheit) would you like converted to Celsius?
+
+print("What temperature (in Fahrenheit) would you like converted to Celsius?")
+int(input(f_temp))
