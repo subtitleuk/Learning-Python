@@ -12,6 +12,7 @@ people = [
 
 sorted_by_name = None
 
+# Edit lines to fix code
 assert sorted_by_name == [
     {"name": "Ariana Richards", "age": 40},
     {"name": "finn Carter", "age": 59},
