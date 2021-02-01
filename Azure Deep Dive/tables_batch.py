@@ -1,7 +1,7 @@
 import time
 
 table_name = "coursecatalog"
-connect_str = "DefaultEndpointsProtocol=https;AccountName=latajlstore1;AccountKey=kU+w12g3WdyPiN8d/QiQvpeFYgIt0yxuSY8uJ6p1cMZR/uARJLrackSiuTqOiVCeOLjWCt0OLyZf+UtISzbeqw==;EndpointSuffix=core.windows.net"
+connect_str = "MAGIC"
 
 from azure.cosmosdb.table.tableservice import TableService
 from azure.cosmosdb.table.models import Entity 
